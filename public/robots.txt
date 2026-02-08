@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://ecosort.web.app/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
+# Disallow admin or private pages (if any)
+# Disallow: /admin/
+# Disallow: /private/

@@ -1,0 +1,45 @@
+# Dependencies
+node_modules
+
+# Build outputs
+.next
+out
+.firebase
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Testing
+test_backend.py
+test_mongodb.js
+training_data
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+.venv
+
+# Documentation
+*.md
+!README.md
+
+# IDE
+.vscode
+.idea
+
+# Git
+.git
+.gitignore
+
+# Firebase
+.firebaserc
+firebase.json
+.firebase
+
+# Misc
+.DS_Store
+*.log
+npm-debug.log*
