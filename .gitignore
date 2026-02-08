@@ -12,6 +12,27 @@
 
 # testing
 /coverage
+test_backend.py
+test_mongodb.js
+
+# Documentation (optional - uncomment to exclude)
+# *.md
+# !README.md
+
+# CNN/TensorFlow files (removed)
+components/CNNClassifier.tsx
+components/EnhancedWasteClassifier.tsx
+lib/tfjs-model.ts
+CNN_MODEL_GUIDE.md
+train_model*.py
+*.py
+
+# Firebase
+.firebase/
+.firebaserc
+
+# Vercel
+.vercel
 
 # next.js
 /.next/
