@@ -5,7 +5,7 @@ AI-powered waste management and recycling platform with real-time tracking.
 ## 🚀 Live Demo
 
 - **Production:** https://ecosort-rose.vercel.app
-- **Firebase:** https://ecosort-app-4b0e2.web.app
+
 
 ## 🛠️ Tech Stack
 
